@@ -21,6 +21,23 @@ English Version Available: https://github.com/salpida-foundation/sal-meter-compe
 
 ---
 
+---
+
+## 핵심 문서 가이드
+
+지원 및 참여를 고려 중이라면 다음 순서로 문서를 읽으세요:
+
+| 순서 | 문서 | 설명 | 시간 |
+|------|------|------|------|
+| 1 | [기술 상세 설명](./docs/01_technical_details.md) | Sal-Meter의 작동 원리 (7단계) | 15분 |
+| 2 | [개발 일정](./docs/02_phase_roadmap.md) | Phase 0-4 상세 일정 및 마일스톤 | 10분 |
+| 3 | [팀 구성 가이드](./docs/03_team_composition.md) | 필요한 인력, 역할, 모집 전략 | 10분 |
+| 4 | [자주 묻는 질문](./docs/04_faq_extended.md) | 심사위원, SICS 역할, 상금, 규제 | 10분 |
+| 5 | [지원 가이드](./docs/05_application_guide.md) | 신청 절차, 서류 작성, 제출 방법 | 15분 |
+
+---
+
+
 ## 핵심: 4개 필수 규칙 문서 (헌법)
 
 이 공모전의 모든 참여자는 다음 4개 DOI 문서를 법적 기준으로 삼습니다.
