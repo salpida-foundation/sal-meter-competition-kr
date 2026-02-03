@@ -1,11 +1,47 @@
-# sal-meter-competition-kr
-Sal-Meter 오픈 공모전  - 의식 측정 장치 개발 경쟁
+# Sal-Meter 오픈 공모전 (한국어)
 
-# Sal-Meter 오픈 공모전
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![Language: 한국어](https://img.shields.io/badge/Language-%ED%95%9C%EA%B5%AD%EC%96%B4-blue)](https://github.com/salpida-foundation/sal-meter-competition-kr)
+[![English Version](https://img.shields.io/badge/English-Available-green)](https://github.com/salpida-foundation/sal-meter-competition)
+[![DOI](https://img.shields.io/badge/DOI-Registered-orange)](https://doi.org/10.5281/zenodo.18452453)
 
-License: CC BY-SA 4.0
-Language: 한국어 (Korean)
+License: CC BY-SA 4.0  
+Language: 한국어 (Korean)  
 English Version Available: https://github.com/salpida-foundation/sal-meter-competition
+
+---
+
+## 목차
+
+- [이것이 뭔가요?](#이것이-뭔가요)
+- [왜 이것이 중요한가?](#왜-이것이-중요한가)
+- [공모 트랙 설명 (3가지 방식)](#공모-트랙-설명-3가지-방식)
+- [꼭 알아야 할 4가지 규칙 문서](#꼭-알아야-할-4가지-규칙-문서)
+- [기술 설명: 실제로 뭘 어떻게 만드나?](#기술-설명-실제로-뭘-어떻게-만드나)
+- [개발 일정: 상세 계획](#개발-일정-상세-계획)
+- [참여팀의 예상 구성](#참여팀의-예상-구성)
+- [자주 묻는 질문 (FAQ)](#자주-묻는-질문-faq)
+- [다음 단계: 지금부터 뭘 하나?](#다음-단계-지금부터-뭘-하나)
+- [문의 및 연락처](#문의-및-연락처)
+
+---
+
+## 이것이 뭔가요?
+
+Sal-Meter 오픈 공모전은 세계 최초로 인간의 의식을 측정하는 장치를 만드는 국제 공개 경쟁입니다.
+
+이 공모전의 목표는 과학적 표준에 기반한 의식 측정 기술을 개발하고, 전 세계의 연구팀, 개발사, 대학 연구소가 함께 참여하도록 하는 것입니다.
+
+### 핵심 정보
+
+| 항목 | 내용 |
+|------|------|
+| **발주 기관** | Salpida Foundation (의식 과학 연구재단) |
+| **목표** | CAIS(의식-앱타머 인터페이스) 기술 기반 의식 측정 센서 개발 |
+| **상금 규모** | 총 $400만 달러 이상 |
+| **참여 자격** | 전 세계 연구팀, 개발사, 대학 연구소, 개인 |
+| **설계 라이선스** | CC BY-SA 4.0 (핵심 설계는 공개되어야 함) |
+| **기술 기반** | 앱타머(Aptamer) + 요오드(Iodine) 센서 기술 |
 
 ---
 
@@ -690,24 +726,30 @@ CFI = (VCE의 구조적 정렬) + (CRI의 안정성) + (신경 신호의 통합�
 - 높음: 의식이 통합적, 조화로움
 - 낮음: 의식이 분산적, 단편적
 
-#### 단계 7: 결과 출력
+### 단계 7: 결과 출력
 
 일곱 번째 단계: 사용자가 이해할 수 있는 형태로 표시합니다.
 
-디지털 출력:
+**디지털 출력:**
+
 VCE: 0.68 (보통보다 높음)
 CRI: 0.82 (매우 안정적)
 CFI: 0.75 (전체적으로 양호)
 
-해석: 당신은 지금 적당한 각성 수준에서 안정적인 의식 상태입니다.
-권장: 휴식 또는 가벼운 명상
+**해석:**
 
-text
+당신은 지금 적당한 각성 수준에서 안정적인 의식 상태입니다.
 
-시각화:
+**권장:**
+
+휴식 또는 가벼운 명상
+
+**시각화:**
+
 - 그래프: 시간에 따른 지표 변화
 - 비교: 개인 기준선 대비 현재 상태
 - 추세: 지난 1주일, 1개월 추이
+
 
 ---
 
