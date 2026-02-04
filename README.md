@@ -9,6 +9,7 @@ CAIS, open competition, mental health sensing, open hardware, Sal-Meter, CAIS, C
 
 CAIS 표준을 준수하는 압타머–요오드 산화환원(redox) 센싱 기반  
 의식(Consciousness)·정신 건강 측정 바이오센서 개발을 위한 글로벌 오픈 공모전입니다.
+
 본 공모전은 측정 가능한 의식 신호에 대한 최초의 개방형 글로벌 실험입니다.
 
 총 펀딩 규모: 약 40억 원 (Track A / B / C).
