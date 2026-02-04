@@ -26,7 +26,7 @@ Sal-Meter를 단순한 “측정 장치”가 아니라
 ## 이 문서는 무엇이 아니다
 이 문서는 어떤 표준도 **재정의하지 않습니다**.
 
-모든 권한과 효력은 다음 **4개 정본 DOI 문서**에만 고정되어 있습니다.
+모든 권한과 효력은 다음 **4개 정본 DOI 문서**의 기록에만 **귀속**되어 있습니다.
 
 1) Sal-Meter 정본 정의 v1.0  
 2) CAIS 준수 경계 v1.0  
@@ -39,12 +39,12 @@ Sal-Meter를 단순한 “측정 장치”가 아니라
 ---
 
 ## 권장 읽기 순서
-0) 본 문서 (왜 이 공모전이 존재하는가 / 의미 / 거버넌스 의도)  
+0) docs/00_philosophy_foundation.md (왜/의미/거버넌스 의도)  
 1) docs/01_technical_details.md  
-2) docs/02_phase_roadmap_en.md  
+2) docs/02_phase_roadmap.md  
 3) docs/03_team_composition.md  
-4) docs/04_faq_extended_en.md  
-5) docs/05_application_guide_en.md  
+4) docs/04_faq_extended.md  
+5) docs/05_application_guide.md  
 
 ---
 
@@ -74,3 +74,4 @@ Sal-Meter를 단순한 “측정 장치”가 아니라
 
 이 GitHub 문서는 **네비게이션용 진입점** 역할만 수행하며,  
 어떠한 정본 권한도 생성하지 않습니다.
+
