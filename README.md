@@ -2,6 +2,8 @@
 모든 정의와 규칙은 DOI 정본 문서에 고정되어 있습니다.  
 자세한 내용은 NOTICE.md를 참조하세요.
 
+Keywords: Sal-Meter, CAIS, Consciousness Measurement, Biosensor, Open Competition, Korea
+
 # Sal-Meter 오픈 공모전
 
 **License:** CC BY-SA 4.0  
