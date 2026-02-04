@@ -38,22 +38,20 @@
 
 ## 필독 문서 가이드 (권장 읽기 순서)
 
-지원 및 참여를 고려 중이라면 **아래 순서대로** 문서를 읽으십시오.
+지원 및 참여를 고려 중이라면 아래 순서대로 문서를 읽으십시오.
 
 | 순서 | 문서 | 설명 | 예상 시간 |
 |---:|---|---|---:|
-| 0 | **Philosophy Foundation** | 왜 Sal-Meter가 ‘적용된 철학의 PoC’인가 (비정본 진입 문서) | 20분 |
-| 1 | [기술 상세 설명](./docs/01_technical_details.md) | Sal-Meter의 작동 원리 (7단계) | 15분 |
-| 2 | [개발 일정](./docs/02_phase_roadmap.md) | Phase 0-4 상세 일정 및 마일스톤 | 10분 |
-| 3 | [팀 구성 가이드](./docs/03_team_composition.md) | 필요한 인력, 역할, 모집 전략 | 10분 |
-| 4 | [자주 묻는 질문](./docs/04_faq_extended.md) | 심사위원, SICS 역할, 상금, 규제 | 10분 |
-| 5 | [지원 가이드](./docs/05_application_guide.md) | 신청 절차, 서류 작성, 제출 방법 | 15분 |
+| 0 | [Philosophy Foundation](docs/00_philosophy_foundation.md) | 왜 Sal-Meter가 “적용된 철학의 PoC”인가 (비정본 진입 문서) | 20분 |
+| 1 | [기술 상세 설명](docs/01_technical_details.md) | Sal-Meter의 작동 원리 (핵심 원리/구성) | 15분 |
+| 2 | [개발 일정](docs/02_phase_roadmap.md) | Phase 0–4 상세 일정 및 마일스톤 | 10분 |
+| 3 | [팀 구성 가이드](docs/03_team_composition.md) | 필요한 인력, 역할, 모집 전략 | 10분 |
+| 4 | [자주 묻는 질문](docs/04_faq_extended.md) | 심사위원, SICS 역할, 상금, 규제 | 10분 |
+| 5 | [지원 가이드](docs/05_application_guide.md) | 신청 절차, 서류 작성, 제출 방법 | 15분 |
 
 **Start here**
-
-docs/00_philosophy_foundation.md
-docs/01_technical_details.md
-
+- 👉 [docs/00_philosophy_foundation.md](docs/00_philosophy_foundation.md)
+- 👉 [docs/01_technical_details.md](docs/01_technical_details.md)
 
 ---
 
@@ -78,7 +76,7 @@ docs/01_technical_details.md
 아래 문서는 **정본 헌법의 일부가 아닙니다**.  
 권한은 없으며, **맥락 제공용**입니다.
 
-- `docs/00_philosophy_foundation.md`  
+- > **File:** docs/00_philosophy_foundation.md (Non-Canonical Entry-Point)
   — **이론에서 구현으로**: 적용된 철학의 Proof of Concept (비정본 진입 문서)
 
 ---
