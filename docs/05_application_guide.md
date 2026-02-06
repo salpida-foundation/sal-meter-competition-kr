@@ -1,5 +1,58 @@
 # 지원 가이드: Sal-Meter 공모전 신청 방법
 
+---
+
+## Quick Guide (PI 및 연구실 책임자 안내)
+
+이 문서는 **Sal-Meter 오픈 공모전 신청을 위한 실무 가이드**입니다.  
+신청 절차와 제출 요건을 상세히 설명하지만,  
+**참여 여부 판단을 위한 문서는 아닙니다.**
+
+### 먼저 확인하시기 바랍니다
+
+- 참여 여부(Go / No-Go)가 아직 결정되지 않은 경우  
+  아래 문서를 **먼저 검토**하는 것을 강력히 권장합니다.
+
+  - **PI 빠른 판단 패킷 (2페이지)**  
+    https://github.com/salpida-foundation/sal-meter-competition-kr/blob/main/docs/PI_Quick_Decision_Pack_kr.md
+
+- 본 Application Guide는  
+  **참여 결정을 이미 내린 팀**이  
+  *“어떻게 신청할 것인가”*를 확인하기 위한 문서입니다.
+
+### 이 문서의 성격
+
+- 연구실 또는 그룹 미팅에서  
+  **수정 없이 그대로 공유 가능**
+- 행정 담당자, 실무 담당자, 공동연구자와  
+  **역할 분담용 문서로 사용 가능**
+- 본 문서는 **비정본(non-canonical)** 이며  
+  **법적·기술적 권한을 정의하지 않습니다**
+
+### 기준과 권한의 위치
+
+신청 자격, 기술 기준, 명칭 사용 권한, 심사 기준 등  
+모든 최종 기준은  
+아래 **DOI 등록 Canonical 문서**에만 존재합니다.
+
+- Sal-Meter Canonical Definition v1.0  
+  https://doi.org/10.5281/zenodo.18452075
+
+- CAIS Compliance Boundary v1.0 — Non-Derogable Standard  
+  https://doi.org/10.5281/zenodo.18452269
+
+- Sal-Meter Open Competition Charter v1.0  
+  https://doi.org/10.5281/zenodo.18452453
+
+- Sal-Meter Negative Definition v1.0  
+  https://doi.org/10.5281/zenodo.18452694
+
+본 문서의 어떤 내용도  
+위 DOI 문서를 대체하거나 수정하지 않습니다.
+
+---
+
+
 이 문서는 Sal-Meter 오픈 공모전에 참여하고자 하는 팀과 개인을 위한 단계별 신청 가이드입니다.
 
 ---
@@ -368,6 +421,19 @@ A. 권장은 영문이지만, 한글 + 영문 병기 가능합니다.
 - [개발 일정](./02_phase_roadmap.md)
 - [팀 구성 가이드](./03_team_composition.md)
 - [자주 묻는 질문](./04_faq_extended.md)
+
+---
+
+## 참고 및 되돌아가기
+
+- 공모전 전체 구조와 문서 인덱스  
+  https://github.com/salpida-foundation/sal-meter-competition-kr/blob/main/index.md
+
+- 공모전 개요 및 권한 고지 (README)  
+  https://github.com/salpida-foundation/sal-meter-competition-kr/blob/main/README.md
+
+- Canonical 정본 인덱스  
+  https://salpida.foundation
 
 ---
 
