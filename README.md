@@ -1,5 +1,27 @@
 # Sal-Meter 오픈 공모전 (Korea)
 
+## Quick Guide (처음 방문하신 분들을 위한 안내)
+
+이 페이지는 **Sal-Meter 오픈 공모전의 비정본(non-canonical) 안내 허브**입니다.  
+빠른 이해를 위해 아래 순서를 권장합니다.
+
+### 1. 30분 이내 참여 판단이 필요한 경우 (PI / 연구책임자)
+- [PI 빠른 판단 패킷 (2페이지)](docs/PI_Quick_Decision_Pack_kr.md)
+
+### 2. 공모전의 철학과 문제의식이 궁금한 경우
+- [Philosophy Foundation](docs/00_philosophy_foundation.md)
+
+### 3. 기술 구조·측정 논리를 먼저 보고 싶은 경우
+- [기술 상세 설명](docs/01_technical_details.md)
+
+### 4. 바로 지원을 고려 중인 경우
+- [지원 가이드](docs/05_application_guide.md)
+
+### 5. 법적·기술적 기준이 어디에 있는지 확인하려는 경우
+- 아래 **4개 DOI 등록 정본(Canonical) 문서**를 반드시 참조하십시오.  
+  본 README 및 GitHub 문서는 기준 권한을 갖지 않습니다.
+
+
 ⚠️ **권한 고지 (Authority Notice)**  
 본 GitHub 레포지토리는 **비정본(non-canonical) 인덱스 및 안내 저장소**입니다.  
 이 레포지토리에 포함된 README, `docs/`, `index.md` 등 모든 문서는  
